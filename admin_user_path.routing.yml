@@ -1,0 +1,7 @@
+admin_user_path.settings:
+  path: '/admin/config/admin_user_path'
+  defaults:
+    _form: '\Drupal\admin_user_path\Form\AdminUserSettingsForm'
+    _title: 'Admin User Path Settings'
+  requirements:
+    _access: 'TRUE'

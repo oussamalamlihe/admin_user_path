@@ -1,0 +1,7 @@
+name: Admin User Path
+type: module
+description: A simple module that permet you to chage url of user pages and routes the login pages to use the admin (theme) path.
+version: '8.x-1.0'
+core: '8.x'
+project: 'admin_user_path'
+configure: admin_user_path.settings

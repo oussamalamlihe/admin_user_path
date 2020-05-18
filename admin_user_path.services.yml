@@ -1,0 +1,7 @@
+services:
+  admin_user_path.alter.user:
+    class: Drupal\admin_user_path\Routing\UserAlterRouting
+    arguments: ['@config.factory', '@cache.render']
+    tags:
+      - { name: event_subscriber}
+

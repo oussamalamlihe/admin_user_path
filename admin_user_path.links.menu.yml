@@ -1,0 +1,7 @@
+admin_user_path.menu.settings:
+  title: 'Admin User Path Settings'
+  description: 'Edit de pattern path of user pages and routes the login pages to use the admin (theme) path.'
+  route_name: admin_user_path.settings
+  menu_name: admin
+  parent: system.admin_config
+  weight: 100
