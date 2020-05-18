@@ -8,7 +8,7 @@ Admin User Path is a simple module that change patter of user pages (login, logo
 
 ## Installation
 
-Admin Login Path can be installed via the [standard Drupal installation process](http://drupal.org/node/895232).
+Admin Login Path can be installed via the drush command en or via BO interface [/admin/modules].
 
 ## Configuration
 
